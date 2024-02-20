@@ -86,10 +86,12 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Fabão Junior">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Fab%C3%A3o%20Junior&count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/fjrcorreoli">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fjrcorreoli&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
 
 ###
 
