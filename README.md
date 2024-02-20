@@ -71,7 +71,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FabiojuniorJR/FabiojuniorJR/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/FabioJuniorJR/FabioJuniorJR/output/snake.svg" alt="Snake animation" />
 
 ###
 
