@@ -67,6 +67,32 @@
   
 ### Studying in this moment:
 
+###
+
+<br clear="both">
+
+<h2 align="center"></h2>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Fabão Junior">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Fab%C3%A3o%20Junior&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FabioJuniorJr}/count.svg" /></p> 
