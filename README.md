@@ -80,4 +80,14 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FabioJuniorJr}/count.svg" /></p> 
 <br></div>
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=FabiojuniorJr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
