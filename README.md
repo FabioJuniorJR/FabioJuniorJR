@@ -32,10 +32,7 @@
 
 ###
 
-
-
 ### Main Skills
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -88,7 +85,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FabioJuniorJr}/count.svg" /></p> 
 <br></div>
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
