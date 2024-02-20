@@ -71,27 +71,7 @@
 
 <br clear="both">
 
-<h2 align="center"></h2>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/fjrcorreoli">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fjrcorreoli&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+<img src="https://raw.githubusercontent.com/FabiojuniorJR/FabiojuniorJR/output/snake.svg" alt="Snake animation" />
 
 ###
 
