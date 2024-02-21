@@ -95,10 +95,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/FabiojuniorJr/FabiojuniorJr/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fjrcorreoli&unique={true|1|on|yes})
 
