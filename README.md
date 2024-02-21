@@ -95,4 +95,7 @@
 
 ###
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fjrcorreoli&unique={true|1|on|yes})
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
