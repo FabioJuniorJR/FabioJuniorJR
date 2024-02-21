@@ -95,11 +95,7 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fjrcorreoli&unique={true|1|on|yes})
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fjrcorreoli)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fjrcorreoli&count={count})
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fjrcorreoli&width={width})
 
