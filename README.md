@@ -94,10 +94,13 @@
 </div>
 
 ###
+<div align="center">
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fjrcorreoli&unique={true|1|on|yes})
+<\div>
 
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fjrcorreoli&width={width})
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
