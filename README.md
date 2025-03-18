@@ -6,8 +6,8 @@
 
 <h2 align="center"></h2>
 
-<p align="left">I currently<br><br>- 🔭 I currently work at Hyundai Barigui Blumenau
-<br>- 📚 I am currently learning JAVA, MyQL, JDBC, JPA, Java EE, Hibernate etc<br>- ⚡In my free time I study Java, Machine Learning, Video Game etc.</p>
+<p align="left">I currently<br><br>- 🔭 I currently work at Oliveira & Antunes Advogados Associados
+<br>- 📚 I am currently learning JAVA, MyQL, JDBC, JPA, Java EE, Hibernate etc<br>- ⚡In my free time I study Java, Machine Learning, React, Front End e Projetos Full Stack etc.</p>
 
 <h2 align="center"></h2>
 
