@@ -4,7 +4,7 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-<p align="left">I currently<br><br>- 🔭 I currently work at Oliveira & Antunes Advogados Associados
+<p align="left">I currently<br><br>- 🔭 I currently work at SESI
 <br>- 📚 I am currently learning and deepening my knowledge in Java (Spring Boot, JPA, Hibernate), React, Next.js, and database management.
 <br>- ⚡ In my free time, I focus on expanding my skills in Full Stack Development, Machine Learning, and exploring new technologies.</p>
 
