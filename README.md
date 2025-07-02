@@ -111,7 +111,7 @@
   <img src="https://streak-stats.demolab.com?user=FabioJuniorJr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
-<img width=100% src="https://spotify-recently-played-readme.vercel.app/api?user=fjrcorreoli&unique={true|1|on|yes}" alt="Spotify Recently Played" />
+<img width=50% src="https://spotify-recently-played-readme.vercel.app/api?user=fjrcorreoli&unique={true|1|on|yes}" alt="Spotify Recently Played" />
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
